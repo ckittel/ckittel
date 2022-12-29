@@ -1,5 +1,5 @@
-| Feel free to reach out to talk about Azure solution architecture or the [Microsoft Learn](https://learn.microsoft.com) content in the [Azure Architecture Center](https://azure.com/architecture), [Azure Well-Architected Framework](https://aka.ms/waf), or the [Cloud Adoption Framework for Azure](https://aka.ms/caf). | ![Microsoft Learn mascot](https://docs.microsoft.com/en-us/media/learn/home/mascot-doc.png)
-|:----|:-----:|
+| ![Fist bump](https://img.icons8.com/external-outline-stroke-bomsymbols-/250/228BE6/external-communication-hand-conversation-outline-stroke-bomsymbols-.png) | Howdy!<br/><br/>Feel free to reach out to talk about Azure solution architecture or the [Microsoft Learn](https://learn.microsoft.com) content in the [Azure Architecture Center](https://azure.com/architecture), [Azure Well-Architected Framework](https://aka.ms/waf), or the [Cloud Adoption Framework for Azure](https://aka.ms/caf). | ![Microsoft Learn mascot](https://docs.microsoft.com/en-us/media/learn/home/mascot-doc.png)
+|:---:|:----|:-----:|
 
 <p align="center">
   <a href="https://github.com/ckittel/">
