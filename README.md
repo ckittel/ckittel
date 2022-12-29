@@ -1,5 +1,5 @@
-| ![Azure Logo](https://img.icons8.com/fluency/240/null/azure-1.png) | Feel free to reach out to talk about Azure solution architecture or the [Microsoft Learn](https://learn.microsoft.com) content in the [Azure Architecture Center](https://azure.com/architecture), [Azure Well-Architected Framework](https://aka.ms/waf), or the [Cloud Adoption Framework for Azure](https://aka.ms/caf). | ![Microsoft Learn mascot](https://docs.microsoft.com/en-us/media/learn/home/mascot-doc.png)
-|:-----:|:----|:-----|
+| Feel free to reach out to talk about Azure solution architecture or the [Microsoft Learn](https://learn.microsoft.com) content in the [Azure Architecture Center](https://azure.com/architecture), [Azure Well-Architected Framework](https://aka.ms/waf), or the [Cloud Adoption Framework for Azure](https://aka.ms/caf). | ![Microsoft Learn mascot](https://docs.microsoft.com/en-us/media/learn/home/mascot-doc.png)
+|:----|:-----:|
 
 <p align="center">
   <a href="https://github.com/ckittel/">
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-## Portfolio
+## Select portfolio
 
 | ![Azure Kubernetes Service Logos](https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vs-tools-for-kubernetes/1.0.1907.1102/1563301332834/Microsoft.VisualStudio.Services.Icons.Default)<br/>Azure Kubernetes Service | Microsoft AKS baseline reference [🗒️ architecture](https://aka.ms/aks-baseline) and [⚡ implementation](https://github.com/mspnp/aks-baseline)<br/>Microsoft AKS baseline for multi-region reference [🗒️ architecture](https://aka.ms/aks-baseline) and [⚡ implementation](https://github.com/mspnp/aks-baseline-multi-region)<br/>Microsoft AKS baseline for regulated industries reference [🗒️ architecture](https://aka.ms/aks-baseline) and [⚡ implementation](https://github.com/mspnp/aks-baseline-regulated) |
 |:--:|:---|
