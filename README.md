@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/chadkittel/">
     <img src="https://img.icons8.com/material-outlined/48/228BE6/linkedin.png" />
   </a>
-  <a href="https://twitter.com/ckittel">
-    <img src="https://img.icons8.com/material-outlined/48/228BE6/twitter.png" />
+  <a href="https://bsky.app/profile/chad.kittel.social">
+    <img src="https://img.icons8.com/material-outlined/24/bluesky.png" />
   </a>
   <a href="mailto:chad.kittel@gmail.com">
     <img src="https://img.icons8.com/material-outlined/48/228BE6/mail-account.png" />
